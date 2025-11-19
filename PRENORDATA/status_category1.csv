@@ -1,0 +1,166 @@
+category,quantity,status
+mobiles & tablets,50470,canceled
+mobiles & tablets,38214,complete
+mens fashion,30673,complete
+others,20362,canceled
+appliances,19553,canceled
+appliances,18861,complete
+women's fashion,16225,complete
+mens fashion,15255,canceled
+beauty & grooming,15204,complete
+soghaat,13651,complete
+mens fashion,12314,order_refunded
+entertainment,12140,canceled
+women's fashion,9936,canceled
+mobiles & tablets,9904,order_refunded
+entertainment,9010,complete
+superstore,8958,complete
+home & living,8222,complete
+mobiles & tablets,6769,received
+superstore,6518,canceled
+computing,6445,canceled
+beauty & grooming,6419,canceled
+women's fashion,6416,order_refunded
+mens fashion,6307,received
+health & sports,5920,complete
+others,5849,received
+others,5804,complete
+computing,5284,complete
+kids & baby,5012,complete
+home & living,5011,canceled
+soghaat,5008,canceled
+women's fashion,4648,received
+appliances,4349,order_refunded
+superstore,3955,received
+appliances,3668,received
+beauty & grooming,3405,received
+beauty & grooming,2861,order_refunded
+health & sports,2532,canceled
+kids & baby,2448,canceled
+home & living,2355,received
+home & living,1980,order_refunded
+entertainment,1978,order_refunded
+entertainment,1966,received
+health & sports,1854,received
+others,1815,order_refunded
+health & sports,1805,order_refunded
+soghaat,1767,received
+computing,1546,order_refunded
+kids & baby,1511,received
+kids & baby,1485,order_refunded
+soghaat,1397,order_refunded
+superstore,1234,order_refunded
+mens fashion,1227,refund
+computing,1141,received
+school & education,1013,complete
+mobiles & tablets,709,refund
+women's fashion,543,refund
+books,444,complete
+school & education,431,canceled
+appliances,420,refund
+beauty & grooming,398,refund
+school & education,379,order_refunded
+home & living,307,refund
+school & education,303,received
+mens fashion,271,cod
+soghaat,206,refund
+kids & baby,196,refund
+women's fashion,182,cod
+computing,177,refund
+others,176,refund
+superstore,162,refund
+health & sports,157,refund
+beauty & grooming,147,cod
+home & living,143,cod
+books,143,order_refunded
+books,140,canceled
+mobiles & tablets,122,cod
+entertainment,116,refund
+books,112,received
+women's fashion,82,closed
+appliances,80,cod
+appliances,80,closed
+kids & baby,78,cod
+superstore,69,cod
+mobiles & tablets,61,paid
+superstore,60,paid
+women's fashion,49,paid
+others,48,cod
+soghaat,48,cod
+mens fashion,48,closed
+health & sports,46,cod
+computing,45,cod
+mobiles & tablets,45,closed
+beauty & grooming,43,paid
+mens fashion,39,paid
+beauty & grooming,36,closed
+school & education,31,refund
+appliances,30,paid
+home & living,29,paid
+superstore,26,payment_review
+soghaat,25,paid
+others,23,paid
+entertainment,20,cod
+kids & baby,20,paid
+mobiles & tablets,18,pending
+entertainment,17,paid
+computing,13,paid
+school & education,12,cod
+health & sports,12,closed
+entertainment,11,pending
+mens fashion,11,processing
+home & living,10,closed
+mobiles & tablets,10,holded
+health & sports,9,paid
+books,9,refund
+books,7,cod
+soghaat,7,closed
+mobiles & tablets,6,fraud
+superstore,6,closed
+computing,6,closed
+entertainment,6,closed
+appliances,5,pending
+appliances,5,payment_review
+school & education,4,paid
+others,4,closed
+kids & baby,4,closed
+mobiles & tablets,4,processing
+books,3,closed
+appliances,3,holded
+others,3,pending
+health & sports,3,payment_review
+entertainment,2,fraud
+entertainment,2,holded
+computing,2,holded
+women's fashion,2,pending
+computing,2,pending
+women's fashion,2,processing
+soghaat,2,payment_review
+mens fashion,2,pending_paypal
+books,1,paid
+computing,1,fraud
+home & living,1,fraud
+school & education,1,closed
+school & education,1,holded
+soghaat,1,holded
+mens fashion,1,holded
+home & living,1,holded
+beauty & grooming,1,holded
+soghaat,1,pending
+home & living,1,pending
+mens fashion,1,exchange
+computing,1,exchange
+women's fashion,1,exchange
+mobiles & tablets,1,exchange
+health & sports,1,processing
+beauty & grooming,1,processing
+home & living,1,processing
+appliances,1,processing
+beauty & grooming,1,payment_review
+mens fashion,1,payment_review
+mobiles & tablets,1,payment_review
+entertainment,1,payment_review
+health & sports,1,pending_paypal
+home & living,1,pending_paypal
+women's fashion,1,pending_paypal
+superstore,1,pending_paypal

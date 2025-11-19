@@ -1,0 +1,128 @@
+category,average_discount,payment_method,year
+women's fashion,30.0,cod,2018
+kids & baby,34.0,cod,2018
+school & education,25.0,cod,2018
+mens fashion,35.0,cod,2018
+home & living,43.0,cod,2018
+beauty & grooming,42.0,cod,2018
+appliances,34.0,cod,2018
+superstore,38.0,cod,2018
+home & living,45.0,Easypay,2018
+women's fashion,38.0,Easypay,2018
+computing,18.0,Easypay,2018
+soghaat,45.0,Easypay,2018
+mens fashion,39.0,Easypay,2018
+mobiles & tablets,20.0,cod,2018
+health & sports,31.0,cod,2018
+appliances,17.0,Easypay,2018
+soghaat,45.0,cod,2018
+superstore,31.0,Easypay,2018
+mobiles & tablets,13.0,Easypay_MA,2018
+beauty & grooming,43.0,Easypay,2018
+computing,25.0,cod,2018
+mobiles & tablets,16.0,Easypay,2018
+beauty & grooming,32.0,jazzwallet,2018
+entertainment,14.0,cod,2018
+home & living,38.0,jazzwallet,2018
+beauty & grooming,32.0,bankalfalah,2018
+mens fashion,29.0,bankalfalah,2018
+home & living,38.0,bankalfalah,2018
+superstore,23.0,bankalfalah,2018
+appliances,13.0,jazzvoucher,2018
+computing,13.0,apg,2018
+mobiles & tablets,10.0,bankalfalah,2018
+entertainment,8.0,apg,2018
+entertainment,12.0,bankalfalah,2018
+mobiles & tablets,14.0,Payaxis,2018
+mobiles & tablets,11.0,jazzvoucher,2018
+computing,13.0,bankalfalah,2018
+entertainment,10.0,easypay_voucher,2018
+appliances,11.0,easypay_voucher,2018
+entertainment,13.0,Payaxis,2018
+appliances,16.0,bankalfalah,2018
+appliances,16.0,Payaxis,2018
+mobiles & tablets,11.0,easypay_voucher,2018
+computing,15.0,Payaxis,2018
+others,9.0,Easypay,2018
+entertainment,11.0,jazzvoucher,2018
+appliances,10.0,jazzwallet,2018
+computing,19.0,jazzvoucher,2018
+kids & baby,39.0,bankalfalah,2018
+mobiles & tablets,10.0,apg,2018
+appliances,11.0,apg,2018
+appliances,14.0,Easypay_MA,2018
+mens fashion,28.0,Payaxis,2018
+others,8.0,Payaxis,2018
+entertainment,14.0,Easypay,2018
+kids & baby,6.0,apg,2018
+school & education,39.0,bankalfalah,2018
+mobiles & tablets,10.0,jazzwallet,2018
+entertainment,10.0,jazzwallet,2018
+computing,18.0,Easypay_MA,2018
+home & living,41.0,Payaxis,2018
+superstore,26.0,Payaxis,2018
+women's fashion,27.0,jazzwallet,2018
+beauty & grooming,37.0,Payaxis,2018
+health & sports,37.0,bankalfalah,2018
+computing,10.0,easypay_voucher,2018
+superstore,33.0,Easypay_MA,2018
+entertainment,13.0,Easypay_MA,2018
+soghaat,44.0,bankalfalah,2018
+superstore,19.0,jazzwallet,2018
+others,10.0,Easypay_MA,2018
+women's fashion,35.0,bankalfalah,2018
+women's fashion,35.0,Payaxis,2018
+women's fashion,25.0,easypay_voucher,2018
+health & sports,30.0,Payaxis,2018
+mens fashion,30.0,easypay_voucher,2018
+kids & baby,21.0,easypay_voucher,2018
+others,34.0,cod,2018
+superstore,27.0,easypay_voucher,2018
+superstore,21.0,jazzvoucher,2018
+superstore,29.0,apg,2018
+others,5.0,jazzwallet,2018
+mens fashion,27.0,jazzwallet,2018
+kids & baby,48.0,Easypay,2018
+beauty & grooming,33.0,easypay_voucher,2018
+home & living,34.0,easypay_voucher,2018
+health & sports,10.0,apg,2018
+health & sports,41.0,jazzwallet,2018
+health & sports,40.0,Easypay_MA,2018
+women's fashion,27.0,Easypay_MA,2018
+others,16.0,easypay_voucher,2018
+mens fashion,20.0,apg,2018
+beauty & grooming,20.0,apg,2018
+beauty & grooming,40.0,Easypay_MA,2018
+women's fashion,26.0,apg,2018
+beauty & grooming,32.0,jazzvoucher,2018
+mens fashion,34.0,Easypay_MA,2018
+computing,11.0,jazzwallet,2018
+home & living,27.0,Easypay_MA,2018
+soghaat,49.0,jazzwallet,2018
+others,10.0,jazzvoucher,2018
+kids & baby,41.0,Payaxis,2018
+women's fashion,26.0,jazzvoucher,2018
+health & sports,21.0,jazzvoucher,2018
+home & living,39.0,jazzvoucher,2018
+mens fashion,27.0,jazzvoucher,2018
+kids & baby,25.0,jazzvoucher,2018
+soghaat,43.0,jazzvoucher,2018
+health & sports,31.0,Easypay,2018
+home & living,23.0,apg,2018
+soghaat,45.0,Payaxis,2018
+soghaat,51.0,apg,2018
+soghaat,39.0,Easypay_MA,2018
+soghaat,43.0,easypay_voucher,2018
+school & education,50.0,Easypay,2018
+others,22.0,bankalfalah,2018
+kids & baby,35.0,jazzwallet,2018
+books,64.0,Payaxis,2018
+kids & baby,49.0,Easypay_MA,2018
+books,33.0,Easypay,2018
+school & education,37.0,Easypay_MA,2018
+books,43.0,cod,2018
+health & sports,39.0,easypay_voucher,2018
+school & education,70.0,Payaxis,2018
+soghaat,64.0,customercredit,2018
+books,84.0,Easypay_MA,2018
+school & education,91.0,jazzwallet,2018

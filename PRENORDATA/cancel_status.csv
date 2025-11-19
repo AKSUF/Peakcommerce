@@ -1,0 +1,46 @@
+category,total,canceled,year,percentage,status
+others,22649,15330,2018,68.0,canceled
+entertainment,3403,1990,2016,58.0,canceled
+mobiles & tablets,31528,17047,2018,54.0,canceled
+others,4406,2238,2017,51.0,canceled
+entertainment,12613,6058,2017,48.0,canceled
+soghaat,2177,1026,2018,47.0,canceled
+computing,3864,1731,2016,45.0,canceled
+mobiles & tablets,54259,24427,2017,45.0,canceled
+mobiles & tablets,20547,8996,2016,44.0,canceled
+entertainment,9253,4092,2018,44.0,canceled
+computing,3760,1669,2018,44.0,canceled
+computing,7038,3045,2017,43.0,canceled
+appliances,13897,5970,2018,43.0,canceled
+appliances,8862,3675,2016,41.0,canceled
+appliances,24296,9908,2017,41.0,canceled
+others,7029,2794,2016,40.0,canceled
+superstore,5332,1847,2016,35.0,canceled
+home & living,4743,1563,2016,33.0,canceled
+superstore,5793,1928,2018,33.0,canceled
+mens fashion,11838,3653,2018,31.0,canceled
+kids & baby,1979,600,2018,30.0,canceled
+women's fashion,8541,2501,2018,29.0,canceled
+beauty & grooming,5764,1662,2018,29.0,canceled
+superstore,9864,2743,2017,28.0,canceled
+school & education,464,129,2018,28.0,canceled
+women's fashion,7212,1908,2016,26.0,canceled
+home & living,9646,2499,2017,26.0,canceled
+home & living,3673,949,2018,26.0,canceled
+women's fashion,22334,5527,2017,25.0,canceled
+mens fashion,32945,7827,2017,24.0,canceled
+beauty & grooming,11936,2854,2017,24.0,canceled
+soghaat,7405,1785,2017,24.0,canceled
+kids & baby,6173,1479,2017,24.0,canceled
+books,170,40,2018,24.0,canceled
+health & sports,5454,1182,2017,22.0,canceled
+health & sports,3421,713,2016,21.0,canceled
+mens fashion,21367,3775,2016,18.0,canceled
+soghaat,12530,2197,2016,18.0,canceled
+beauty & grooming,10816,1903,2016,18.0,canceled
+school & education,805,141,2016,18.0,canceled
+school & education,906,161,2017,18.0,canceled
+health & sports,3465,637,2018,18.0,canceled
+books,312,49,2017,16.0,canceled
+kids & baby,2602,369,2016,14.0,canceled
+books,377,51,2016,14.0,canceled
